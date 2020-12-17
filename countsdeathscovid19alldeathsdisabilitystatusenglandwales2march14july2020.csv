@@ -1,0 +1,14 @@
+﻿Disability status,Sex,Counts of COVID- 19 related deaths(Age 9 to 64 ),Counts of COVID- 19 related deaths (Age 65 to 110)
+Disabled - limited a lot,Male,663,6024
+Disabled - limited a little,Male,403,6588
+Non-disabled - not limited,Male,1700,9913
+Disabled - limited a lot,Female,548,6797
+Disabled - limited a little,Female,260,6251
+Non-disabled - not limited,Female,810,6357
+,,,
+,,,
+Notes,,,
+"1 Causes of death was defined using the International Classification of Diseases, Tenth Revision (ICD-10) codes U07.1 and U07.2. Figures include deaths where coronavirus (COVID-19) was the underlying cause or was mentioned on the death certificate as a contributory factor. Figures do not include neonatal deaths (deaths under 28 days).",,,
+"2 Figures are for persons usually resident in England and Wales, based on 2011 Census enumerations, and not known to have died before 2 March 2020.",,,
+3 Figures are for deaths occurring between 2 March 2020 and 14 July 2020. Figures only include deaths that were registered by 21 July 2020. More information on registration delays can be found on the ONS website: ,,,
+https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/impactofregistrationdelaysonmortalitystatisticsinenglandandwales/2018,,,
